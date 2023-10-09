@@ -1,0 +1,71 @@
+/*=============== GOOGLE FONTS ===============*/
+
+
+/*=============== VARIABLES CSS ===============*/
+:root {
+  --header-height: 3.5rem;
+
+  /*========== Colors ==========*/
+  /*Color mode HSL(hue, saturation, lightness)*/
+  --first-color: hsl(330, 100%, 80%);
+  --first-color-alt: hsl(330, 89%, 74%);
+  --title-color: hsl(233, 20%, 15%);
+  --text-color: hsl(233, 4%, 35%);
+
+
+  /*========== Font and typography ==========*/
+  /*.5rem = 8px | 1rem = 16px ...*/
+  --body-font: 'Open Sans', sans-serif;
+  --second-font: 'Lemon', cursive;
+  --biggest-font-size: 2.25rem;
+  --normal-font-size: .938rem;
+}
+
+/* Responsive typography */
+@media screen and (min-width: 1024px) {
+  :root {
+    --biggest-font-size: 3.5rem;
+    --normal-font-size: 1rem;
+  }
+}
+
+/*=============== BASE ===============*/
+
+
+/*=============== REUSABLE CSS CLASSES ===============*/
+
+
+
+/*=============== HEADER & NAV ===============*/
+
+
+
+
+/*=============== HOME ===============*/
+
+
+
+/*=============== BREAKPOINTS ===============*/
+/* For small devices */
+
+@media screen and (max-width: 330px) {
+  
+}
+
+
+/* For medium devices */
+
+@media screen and (min-width: 767px) {
+  
+}
+
+
+/* For large devices */
+@media screen and (min-width: 1024px) {
+  
+}
+
+
+@media screen and (min-width: 1048px) {
+
+}
